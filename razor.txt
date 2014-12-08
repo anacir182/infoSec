@@ -1,1 +1,1 @@
-char test
+char test 2
